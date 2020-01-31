@@ -1,0 +1,66 @@
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+D:\PROJECT\KM-DELTA-8-NEW\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+A:\Anton\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+C:\Users\user\Desktop\КМ-Дельта М\VS\КМ_Дельта_М\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+A:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe.config
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.exe
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.pdb
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.exe
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Debug\КМ_Дельта_М.pdb
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csprojResolveAssemblyReference.cache
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.about.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Form1.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.parametry.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.Properties.Resources.resources
+D:\SVN\Projects\KM-DELTA-M-2018\VS\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Debug\КМ_Дельта_М.csproj.GenerateResource.Cache

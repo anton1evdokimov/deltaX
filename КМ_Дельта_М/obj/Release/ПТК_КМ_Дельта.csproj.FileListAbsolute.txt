@@ -1,0 +1,10 @@
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Release\КМ_Дельта_М.exe.config
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\КМ_Дельта_М.exe
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\КМ_Дельта_М.pdb
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Release\КМ_Дельта_М.exe
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\bin\Release\КМ_Дельта_М.pdb
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\ПТК_КМ_Дельта.about.resources
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\ПТК_КМ_Дельта.Form1.resources
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\parametry.parametry.resources
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\ПТК_КМ_Дельта.Properties.Resources.resources
+D:\ПТК КМ-Дельта 2018\КМ_Дельта_М\obj\Release\ПТК_КМ_Дельта.csproj.GenerateResource.Cache
